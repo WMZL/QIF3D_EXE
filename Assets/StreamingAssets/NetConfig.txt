@@ -1,0 +1,10 @@
+IP 172.26.1.233
+Port 1883
+TopicSend TestSend
+TopicRecv TestRecv
+Server 172.26.1.149
+Database dsa5200
+Uid root
+Pwd qif123.,
+DataPort 3306
+Charset utf8
